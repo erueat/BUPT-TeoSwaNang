@@ -17,3 +17,7 @@
 ## v1.0
 
 1. 0000-00-00 Just someone felt funny and gave this group a version out of no reason(Or maybe there is a reason? Who knows though?)
+
+## Long before
+
+1. The Chinese name of the group is set to ``北邮潮汕群迎新版``。
