@@ -4,7 +4,7 @@
 
 1. 2017-12-11 We formally introduce a set of holy-new version management rule.
 2. 2017-12-11 Change logs will be recorded from now on.
-3. 2017-12-11 We start to use MajorVersion.MinorVersion.BuildNumber.Revision format as the group version.
+3. 2017-12-11 We start to use ``MajorVersion.MinorVersion.BuildNumber.Revision`` format as the group version.
 
 ## v1.11
 
