@@ -1,1 +1,19 @@
-# BUPT-TeoSwaNang
+# Chang Log for Wechat Group ``BUPT-TeoSwaNang``
+
+## v2.0
+
+1. 2017-12-11 We formally introduce a set of holy-new version management rule.
+2. 2017-12-11 Change logs will be recorded from now on.
+   
+
+## v1.1.1
+
+1. yyyy-MM-dd God knows when and why we upgrade.
+
+## v1.1.0
+
+1. yyyy-MM-dd Neither does God know when and why we upgrade.
+
+## v1.0
+
+1. 0000-00-00 Just someone felt funny and gave this group a version out of no reason(Or maybe there is a reason? Who knows though?)
