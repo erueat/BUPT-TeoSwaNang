@@ -1,4 +1,4 @@
-# Chang Log for Wechat Group ``BUPT-TeoSwaNang``
+# Change Log for WeChat Group ``BUPT-TeoSwaNang``
 
 ## v2.22
 
