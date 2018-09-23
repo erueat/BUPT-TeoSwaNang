@@ -1,4 +1,7 @@
-# Change Log for Wechat Group ``BUPT-TeoSwaNang``
+# Change Log for WeChat Group ``BUPT-TeoSwaNang``
+
+## v2.23
+1. 2018-9-23 After adding the junior schoolfellows who joined us this year, we finally have the group upgraded.
 
 ## v2.22
 
